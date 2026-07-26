@@ -8,7 +8,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiuday03&label=Profile%20views&color=0e75b6&style=flat" alt="abhiuday03" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Development**
+
+- 🔭 **I’m currently working on** 
+Building robust Java applications and optimizing database interactions with SQL.
+
+- 👯 **I’m looking to collaborate on** 
+Open-source Java tools, REST API projects, and backend services.
+
+- 🤝 **I’m looking for help with** 
+Advanced system design and cloud deployment workflows.
+
+- 🌱 **I’m currently learning** 
+Deep-dive SQL query optimization, microservices architecture, and secure backend patterns.
+
+- 💬 **Ask me about** 
+Java, SQL, database design, or finding the perfect audio EQ balance for IEMs!
+
+- ⚡ **Fun fact** 
+I log 5 to 7 km of walking every day—it’s my favorite way to debug tricky code before writing a single line.
 
 - 📫 How to reach me **abhiuday58@gmail.com**
 
